@@ -1,0 +1,126 @@
+{
+    
+    "welcome message" : "Explore todos los lugares famosos del hermoso país de Bangladesh y encuentre hoteles y restaurantes cercanos de la manera más fácil.",
+    "welcome to" : "Welcome to",
+
+    "intro-title1" : "No importa dónde estés",
+    "intro-title2" : "Explorar cosas cercanas",
+    "intro-title3" : "Guía de viaje en tiempo real",
+    "intro-description1" : "Acceso a información importante sobre su destino antes y durante su viaje ...",
+    "intro-description2" : "Explore hoteles y restaurantes cercanos cerca de todos los puntos turísticos de la manera más fácil ...",
+    "intro-description3" : "Obtenga direcciones, costos y otras cosas relacionadas con viajes en un solo lugar ...",
+    "get started" : "Empezar",
+
+    "explore country" : "Explore Bangladesh",
+    "search places" : "Buscar lugares",
+    "popular places" : "Lugares populares",
+    "special state-1 places" : "Lugares en Sylhet",
+    "special state-2 places" : "Lugares en Chittagong",
+    "recently added" : "Recientemente añadido",
+    "recommended places" : "Lugares recomendados",
+
+    "people like this" : "Gente como esta",
+    "todo" : "herramientas",
+    "you may also like" : "También te puede interesar",
+    "travel guide" : "Guía turístico",
+    "nearby hotels" : "Hoteles cercanos",
+    "nearby restaurants" : "Restaurantes cercanos",
+    "steps" : "Pasos",
+    "estimated cost = " : "Costo estimado = ",
+    "distance = " : "Distancia = ",
+    "no hotels found" : "No se encontraron hoteles",
+    "no restaurants found" : "No se encontraron restaurantes",
+    "we didn't find any nearby hotels in this area" : "No hemos encontrado ningún hotel cercano en esta área",
+    "we didn't find any nearby restaurants in this area" : "No hemos encontrado ningún restaurante cercano en esta área",
+    "user reviews" : "Opiniones de los usuarios",
+
+
+    "write a review" : "Escribe una reseña",
+    "no internet" : "¡Sin conexión a Internet!",
+    "no comments found" : "No se encontraron comentarios",
+    "be the first to comment" : "Se la primera en comentar",
+
+    "recently added places" : "Lugares añadidos recientemente",
+
+
+    "search & explore" : "Buscar y explorar lugares",
+    "recent searchs" : "Búsquedas recientes",
+    "search for places" : "Buscar lugares",
+    "search-description" :  "Aún no has buscado ningún artículo.\n Pruébalo ahora, ¡te ayudaremos!",
+    "we have found" : "Nosotras hemos encontrado",
+    "no places found" : "No se encontraron lugares",
+    "try again" : "¡Inténtalo de nuevo!",
+
+
+
+    "states" : "Estados",
+    "blogs" : "Blogs",
+
+
+    "bookmarks" : "Marcadores",
+    "saved places" : "Lugares guardados",
+    "saved blogs" : "Blogs guardadas",
+    "sign in first" : "Iniciar sesión primero",
+    "sign in to save your favourite places here" : "",
+    "sign in to save your favourite blogs here" : "Sign in to save your favourite blogs here",
+    "no blogs found" : "No Blogs Found",
+    "save your favourite places here" : "Inicia sesión para guardar tus lugares favoritos aquí",
+    "save your favourite blogs here" : "Guarda tus blogs favoritos aquí",
+
+
+
+    "skip" : "Omitir",
+    "check your internet connection!" : "¡Comprueba tu conexión a Internet!",
+    "something is wrong. please try again." : "Algo está mal. Inténtalo de nuevo.",
+
+
+    "sign in" : "Registrarse",
+    "cancel" : "Cancelar",
+    
+    "no sign in title" : "Inicie sesión primero para acceder a esta función",
+    "no sign in subtitle" : "Aún no has iniciado sesión. Por favor, inicia sesión para desbloquear esta característica",
+
+    
+    
+    "comments" : "Comentarios",
+    "write a comment" : "Escribir un comentario", 
+
+
+    
+    "no content" : "No se encontraron contenidos",
+    "delete?" : "¿Eliminar?",
+    "delete from database?" : "¿Quieres eliminar este artículo?",
+
+
+    "notifications" : "Notificaciones",
+    "notification details" : "Detalles de la notificación",
+
+
+    "profile" : "Perfil",
+    "general setting" : "Ajustes generales",
+    "login" : "Iniciar sesión",
+    "get notifications" : "Recibir notificaciones",
+    "contact us" : "Contacta con nosotras",
+    "rate this app" : "Califica esta aplicación",
+    "licence" : "Licencia",
+    "privacy policy" : "Política de privacidad",
+    "about us" : "Sobre nosotros",
+    "logout" : "Cerrar sesión",
+    "edit profile" : "Editar perfil",
+    "update profile" : "Actualización del perfil",
+    "updated successfully" : "Actualizado con éxito",
+    "enter new name" : "Ingrese nuevo nombre",
+
+    "logout title" : "¿Realmente quieres cerrar la sesión de la aplicación?",
+    "yes" : "si",
+    "no" : "No",
+
+    "language" : "Idioma",
+    "select language" : "Seleccione el idioma",
+
+    "buy now" : "Comprar esta aplicación",
+    "buy now subtitle" : "Compre el código fuente completo aquí y cree la aplicación para su país"
+
+
+
+}

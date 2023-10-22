@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<resources>  
+   <string name="app_name">Travel Hour</string>  <!-- App Name-->
+   <string name="facebook_app_id">193186341991*****</string>  <!-- fb app id-->
+   <string name="fb_login_protocol_scheme">fb1931863*******</string>  <!-- fb + app_id-->
+</resources>
